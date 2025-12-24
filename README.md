@@ -1,6 +1,30 @@
 # Tbilisi Night
 
+<div align="center">
+  <img src="./assets/logo.png" alt="Tbilisi Night Logo" width="200"/>
+</div>
+
 A beautiful dark and light theme for Visual Studio Code inspired by the warm, atmospheric nights of Tbilisi. This theme features a rich color palette with deep purples, warm oranges, and soothing blues that create a comfortable coding environment for any time of day.
+
+## Screenshots
+
+### Tbilisi Night (Dark Theme)
+
+![Tbilisi Night Dark Theme - Screenshot 1](./assets/tbilisi-night-1.png)
+
+![Tbilisi Night Dark Theme - Screenshot 2](./assets/tbilisi-night-2.png)
+
+### Tbilisi Night Light
+
+![Tbilisi Night Light Theme - Screenshot 1](./assets/tbilisi-night-light-1.png)
+
+![Tbilisi Night Light Theme - Screenshot 2](./assets/tbilisi-night-light-2.png)
+
+### Tbilisi Night Storm
+
+![Tbilisi Night Storm Theme - Screenshot 1](./assets/tbilisi-night-storm-1.png)
+
+![Tbilisi Night Storm Theme - Screenshot 2](./assets/tbilisi-night-storm-2.png)
 
 ## Features
 
@@ -102,20 +126,6 @@ Or:
 
 1. Go to File > Preferences > Color Theme
 2. Choose your preferred variant
-
-## Screenshots
-
-### Tbilisi Night (Dark Theme)
-
-![Tbilisi Night Dark Theme - Screenshot 1](./assets/tbilisi-night-1.png)
-
-![Tbilisi Night Dark Theme - Screenshot 2](./assets/tbilisi-night-2.png)
-
-### Tbilisi Night Light
-
-![Tbilisi Night Light Theme - Screenshot 1](./assets/tbilisi-night-light-1.png)
-
-![Tbilisi Night Light Theme - Screenshot 2](./assets/tbilisi-night-light-2.png)
 
 ## Publishing to Marketplace
 
