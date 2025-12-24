@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+        "[Monokai Pro]": {
+            "editorBracketHighlight.foreground1": "#fc9867",
+            "editorBracketHighlight.foreground2": "#ffd866",
+            "editorBracketHighlight.foreground3": "#a9dc76",
+            "editorBracketHighlight.foreground4": "#78dce8",
+            "editorBracketHighlight.foreground5": "#ab9df2",
+            "editorBracketHighlight.foreground6": "#ff6188"
+        },
+        "activityBar.background": "#07342C",
+        "titleBar.activeBackground": "#0A483E",
+        "titleBar.activeForeground": "#EEFDFA"
+    }
+}

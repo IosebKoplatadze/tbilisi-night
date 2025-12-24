@@ -1,0 +1,35 @@
+{
+  "name": "tbilisi-night",
+  "displayName": "Tbilisi Night",
+  "description": "A dark theme inspired by the warm nights of Tbilisi",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tbilisi Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tbilisi-night-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/tbilisi-night"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "tbilisi",
+    "night"
+  ],
+  "author": "Ioseb Koplatadze",
+  "license": "MIT",
+  "publisher": "IosebKoplatadze"
+}
+
