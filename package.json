@@ -2,7 +2,7 @@
   "name": "tbilisi-night",
   "displayName": "Tbilisi Night",
   "description": "A beautiful dark, light, and storm theme inspired by the warm nights of Tbilisi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "assets/logo.png",
   "engines": {
     "vscode": "^1.81.0"
