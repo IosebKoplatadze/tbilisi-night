@@ -7,4 +7,5 @@ vsc-extension-quickstart.md
 **/tsconfig.json
 **/*.map
 **/*.ts
-
+.env
+.npmrc
