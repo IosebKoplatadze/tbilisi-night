@@ -1,7 +1,7 @@
 {
   "name": "tbilisi-night",
   "displayName": "Tbilisi Night",
-  "description": "A beautiful dark and light theme inspired by the warm nights of Tbilisi",
+  "description": "A beautiful dark, light, and storm theme inspired by the warm nights of Tbilisi",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.81.0"
@@ -20,6 +20,11 @@
         "label": "Tbilisi Night Light",
         "uiTheme": "vs",
         "path": "./themes/tbilisi-night-light-color-theme.json"
+      },
+      {
+        "label": "Tbilisi Night Storm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tbilisi-night-storm-color-theme.json"
       }
     ]
   },
@@ -31,8 +36,10 @@
     "theme",
     "dark",
     "light",
+    "storm",
     "tbilisi",
-    "night"
+    "night",
+    "monokai"
   ],
   "author": "Ioseb Koplatadze",
   "license": "MIT",

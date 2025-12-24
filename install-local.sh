@@ -1,12 +1,12 @@
 #!/bin/bash
 
-# Quick install script for Tbilisi Night themes (Dark & Light) in Cursor
+# Quick install script for Tbilisi Night themes (Dark, Light & Storm) in Cursor
 
 EXTENSION_DIR="$HOME/.cursor/extensions"
 THEME_DIR="$EXTENSION_DIR/tbilisi-night"
 CURRENT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-echo "🎨 Installing Tbilisi Night themes (Dark & Light) locally in Cursor..."
+echo "🎨 Installing Tbilisi Night themes (Dark, Light & Storm) locally in Cursor..."
 
 # Create extensions directory if it doesn't exist
 mkdir -p "$EXTENSION_DIR"
@@ -29,6 +29,7 @@ if [ $? -eq 0 ]; then
     echo "2. Select theme (Cmd+K Cmd+T):"
     echo "   - 'Tbilisi Night' (Dark theme)"
     echo "   - 'Tbilisi Night Light' (Light theme)"
+    echo "   - 'Tbilisi Night Storm' (Enhanced syntax highlighting)"
     echo ""
     echo "To uninstall, run: rm -rf $THEME_DIR"
 else

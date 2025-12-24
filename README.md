@@ -6,7 +6,8 @@ A beautiful dark and light theme for Visual Studio Code inspired by the warm, at
 
 - 🌙 **Dark theme** - Eye-friendly color scheme for late-night coding
 - ☀️ **Light theme** - Bright and comfortable for daytime use
-- 🎨 Carefully crafted syntax highlighting for both variants
+- ⚡ **Storm variant** - Enhanced syntax highlighting with vibrant colors from Monokai Pro
+- 🎨 Carefully crafted syntax highlighting for all variants
 - 🏙️ Warm color palette inspired by Tbilisi nights
 - ✨ Optimized for readability and aesthetics
 
@@ -33,6 +34,17 @@ A bright, comfortable variant for daytime coding:
 - **Keywords**: Rich purple (`#8b4c7a`)
 - **Functions**: Sky blue (`#4b7bb1`)
 - **Classes**: Warm amber (`#d4a84f`)
+
+### Tbilisi Night Storm
+Enhanced variant with vibrant syntax highlighting and bracket pair colorization, featuring colors from Monokai Pro:
+
+- **Background**: Dark theme base (`#2d2a2e`)
+- **Keywords/Tags**: Vibrant orange (`#fc9867`)
+- **Strings**: Warm orange (`#fc9867`)
+- **Types/Classes**: Cyan (`#78dce8`)
+- **Properties**: Yellow (`#ffd866`)
+- **Namespaces**: Purple (`#ab9df2`)
+- **Bracket Colors**: 6-color rainbow bracket highlighting
 
 ## Installation
 
@@ -81,9 +93,10 @@ For more detailed local installation instructions, see [LOCAL_INSTALL.md](./LOCA
 After installation:
 
 1. Press `Ctrl+K Ctrl+T` (Mac: `Cmd+K Cmd+T`) to open the theme selector
-2. Select either:
+2. Select one of:
    - **"Tbilisi Night"** for the dark theme
    - **"Tbilisi Night Light"** for the light theme
+   - **"Tbilisi Night Storm"** for enhanced syntax highlighting
 
 Or:
 
