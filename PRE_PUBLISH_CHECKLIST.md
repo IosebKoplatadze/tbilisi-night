@@ -30,10 +30,11 @@ Before publishing to the marketplace, make sure to update these fields in `packa
   }
   ```
 
-- [ ] **Icon** - Add an icon (128x128 PNG) in the root directory
-  - Add to package.json: `"icon": "icon.png"`
+- [ ] **Icon** - Add an icon (128x128 PNG, recommended 512x512)
+  - Add to package.json: `"icon": "assets/logo.png"`
+  - ✅ Already added: `assets/logo.png`
 
-- [ ] **Gallery Banner** - Add a banner (1280x320 PNG)
+- [ ] **Gallery Banner** - Add a banner (1280x320 PNG) - Optional but recommended
   - Add to package.json: `"galleryBanner": { "color": "#1a1625", "theme": "dark" }`
 
 ## Quick Edit Command
