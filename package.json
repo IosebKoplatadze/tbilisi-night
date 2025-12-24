@@ -4,7 +4,7 @@
   "description": "A beautiful dark and light theme inspired by the warm nights of Tbilisi",
   "version": "1.0.0",
   "engines": {
-    "vscode": "^1.74.0"
+    "vscode": "^1.81.0"
   },
   "categories": [
     "Themes"
